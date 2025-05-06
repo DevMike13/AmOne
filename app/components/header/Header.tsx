@@ -2,7 +2,7 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <div className='w-full h-[80px] bg-linear-65 from-[#19339A] to-[#5874E5] flex flex-col md:flex-row items-center justify-between px-2 md:px-20 relative z-10 max-w-screen-xl mx-auto'>
+    <div className='w-full h-[80px] bg-linear-65 from-[#19339A] to-[#5874E5] flex flex-col md:flex-row items-center justify-between px-2 md:px-20 relative z-10 mx-auto'>
         <div className="flex items-center">
 
         </div>
